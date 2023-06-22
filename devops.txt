@@ -1,0 +1,2 @@
+welocme to git 
+it is a scm tool and version control system
